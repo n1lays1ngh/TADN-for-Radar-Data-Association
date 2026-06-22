@@ -22,11 +22,7 @@
 5. [Progressive Curriculum Training](#5-progressive-curriculum-training)
 6. [Benchmark Results: TADN vs. GNN](#6-benchmark-results-tadn-vs-gnn)
 7. [Installation & Quick Start](#7-installation--quick-start)
-8. [Code Reference](#8-code-reference)
-   - [RadarCurriculumDataset](#81-radarcurriculumdataset)
-   - [Full_TADN Architecture](#82-full_tadn-architecture)
-   - [Production Loop Wrapper](#83-production-loop-wrapper)
-9. [Project Author](#9-project-author)
+8. [Project Author](#8-project-author)
 
 ---
 
@@ -315,7 +311,7 @@ with torch.no_grad():
 
 ---
 
-## 9. Project Author
+## 8. Project Author
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -324,7 +320,7 @@ with torch.no_grad():
 ║  Principal Developer, TADN                                               ║
 ║  3rd-Year B.E. Computer Science                                          ║
 ║  Thapar Institute of Engineering & Technology (TIET), Patiala, India    ║
-║  CGPA: 8.91 / 10.0                                                       ║
+║  CGPA: 8.95 / 10.0                                                       ║
 ║                                                                          ║
 ║  Core Competencies:                                                      ║
 ║    ▸ Backend Engineering & High-Throughput System Design                 ║
@@ -336,7 +332,7 @@ with torch.no_grad():
 
 **Institution:** Thapar Institute of Engineering & Technology (TIET), Patiala, Punjab, India
 **Degree:** Bachelor of Engineering — Computer Science and Engineering
-**CGPA:** 8.91 / 10.0
+**CGPA:** 8.95 / 10.0
 
 TADN was conceived as a principled answer to a production-grade failure mode observed in operational ATM and defense radar processing pipelines: the inability of classical, greedy data association heuristics to maintain tracking continuity under the simultaneous pressure of dense airspace, measurement noise, and transmission latency. The system demonstrates that a compact (~1.2M parameter) Transformer, trained with a disciplined progressive curriculum, is capable of solving this problem with zero track fragmentations and complete clutter suppression in fully out-of-distribution evaluation.
 
