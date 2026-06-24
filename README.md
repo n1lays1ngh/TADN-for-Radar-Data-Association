@@ -12,6 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Running-success?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Nilay31Singh/TADN-radar_association)
 
 ## Table of Contents
 
